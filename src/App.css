@@ -1,0 +1,38 @@
+body{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: rgba(143, 132, 132, 0.658);
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.button_img{
+  width: 4vw;
+  height: auto;
+}
+
+.main_header{
+  width: 100%;
+  text-align: center;
+}
+
+.button{
+  width: 5vw;
+  height: 17vh;
+  margin: auto;
+}
+
+.information{
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  background-color: #574141e1;
+}
+
+.information_picture{
+  max-width: 70vw;
+}
